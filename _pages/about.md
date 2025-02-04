@@ -1,5 +1,7 @@
 ---
 title: About
+date: 2025-02-05
+category: Admin
 layout: post
 ---
 
