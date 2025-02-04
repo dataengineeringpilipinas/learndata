@@ -1,5 +1,5 @@
             "sharing": {
-                "facebook": true,
+                "facebook": false,
 
                 "google": false,
 
@@ -7,7 +7,7 @@
               {% if site.github_username %}
                 "github_link": "https://github.com/{{ site.github_username }}",
               {% else %}
-                "github_link": "https://github.com",
+                "github_link": "https://github.com/dataengineeringpilipinas",
               {% endif %}
 
                 "telegram": false,
@@ -15,7 +15,7 @@
 
                 "instapaper": false,
 
-                "twitter": true,
+                "twitter": false,
               {% if site.twitter_username %}
                 "twitter_link": "https://twitter.com/{{ site.twitter_username }}",
               {% endif %}
