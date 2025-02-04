@@ -43,10 +43,6 @@ markdown_ext:             markdown,mkdown,mkdn,mkd,md
 # Permalinks
 permalink:                /:categories/:year-:month-:day-:title:output_ext
 
-navigation:
-  - title: test
-    url: test.com
-
 # Disqus comments
 # disqushandler:            sighingnow
 
@@ -78,3 +74,6 @@ plugins:
   - jemoji
 
 
+links:
+  - label: "Email"
+    url: "fas fa-fw fa-envelope-square"

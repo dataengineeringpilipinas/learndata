@@ -115,6 +115,17 @@
                 {% endfor %}
             {% endif %}
         </ul>
+
+
+        <!-- <p>{{ navigation }}</p> -->
+        {% if links %}
+        {% for link in links %}
+          {% if link.label and link.url %}
+            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
+          {% endif %}
+        {% endfor %}
+      {% endif %}
+
+        <li class="divider"></li>
     </nav>
 </div>
-hheheh
