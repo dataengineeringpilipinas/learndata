@@ -1,6 +1,5 @@
 ---
 title: Open Access Books
-date: 2025-02-05
 category: Admin
 layout: post
 ---
