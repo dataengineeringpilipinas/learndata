@@ -1,5 +1,5 @@
             "sharing": {
-                "facebook": false,
+                "facebook": true,
 
                 "google": false,
 
