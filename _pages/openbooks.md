@@ -33,6 +33,7 @@ Develop a solid understanding of data engineering principles, design patterns, a
 2. **Modern Data Engineering Playbook** - [https://www.thoughtworks.com/en-cl/what-we-do/data-and-ai/modern-data-engineering-playbook](https://www.thoughtworks.com/en-cl/what-we-do/data-and-ai/modern-data-engineering-playbook)
 3. **Data Engineering Design Patterns (DEDP)** - [https://www.dedp.online/about-this-book.html](https://www.dedp.online/about-this-book.html)
 4. **The Data Engineering Cookbook** - [https://github.com/project303/The-Data-Engineering-Cookbook-](https://github.com/project303/The-Data-Engineering-Cookbook-)
+5. **Data Engineering Vault: A Second Brain Knowledge Network** - [https://www.ssp.sh/brain/data-engineering/](https://www.ssp.sh/brain/data-engineering/)
 
 ---
 
