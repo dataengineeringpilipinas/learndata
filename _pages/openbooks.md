@@ -10,7 +10,7 @@ layout: post
 Begin with these books to build programming fundamentals, essential for data engineering, data science, and analytics.
 
 1. **Python for Everybody** - [https://books.trinket.io/pfe/index.html](https://books.trinket.io/pfe/index.html)
-2. **Learn Python the Hard Way** - [https://learntocodetogether.com/learn-python-the-hard-way-free-ebook-download/](https://learntocodetogether.com/learn-python-the-hard-way-free-ebook-download/)
+2. **Automate the Boring Stuff** - [https://automatetheboringstuff.com/](https://automatetheboringstuff.com/)
 3. **Python datasciencebook** - [https://python.datasciencebook.ca/](https://python.datasciencebook.ca/)
 4. **R for Data Science** - [https://r4ds.had.co.nz/](https://r4ds.had.co.nz/)
 5. **Data Science - R Basics** - [https://rafalab.dfci.harvard.edu/dsbook/](https://rafalab.dfci.harvard.edu/dsbook/)
@@ -61,7 +61,6 @@ Build statistical knowledge and explore techniques used in data science.
 
 1. **Exploratory Data Analysis with R** - [https://bookdown.org/rdpeng/exdata/](https://bookdown.org/rdpeng/exdata/)
 2. **The Art of Data Science** - [https://bookdown.org/rdpeng/artofdatascience/](https://bookdown.org/rdpeng/artofdatascience/)
-3. **Open Books by Open UMN** - [https://open.umn.edu/opentextbooks](https://open.umn.edu/opentextbooks)
 
 ---
 
@@ -72,9 +71,8 @@ Deepen your knowledge by studying advanced machine learning, forecasting, and ti
 2. **Pattern Recognition and Machine Learning** - [https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/](https://www.microsoft.com/en-us/research/publication/pattern-recognition-machine-learning/)
 3. **Mathematics for Machine Learning** - [https://mml-book.github.io/](https://mml-book.github.io/)
 4. **Machine Learning - a Probabilistic Perspective** - [https://probml.github.io/pml-book/book0.html](https://probml.github.io/pml-book/book0.html)
-5. **Probabilistic Machine Learning - An Introduction** - [https://probml.github.io/pml-book/book1.html](https://probml.github.io/pml-book/book1.html)
-6. **Time Series Analysis with R** - [https://vlyubchich.github.io/tsar/](https://vlyubchich.github.io/tsar/)
-7. **Forecasting: Principles and Practice with R** - [https://otexts.com/fpp2/](https://otexts.com/fpp2/)
+5. **Time Series Analysis with R** - [https://vlyubchich.github.io/tsar/](https://vlyubchich.github.io/tsar/)
+6. **Forecasting: Principles and Practice with R** - [https://otexts.com/fpp2/](https://otexts.com/fpp2/)
 
 ---
 
@@ -86,7 +84,6 @@ Explore books focused on specific domains and practical applications of data ana
 3. **NFL Analytics with R** - [https://bradcongelio.com/nfl-analytics-with-r-book/](https://bradcongelio.com/nfl-analytics-with-r-book/)
 4. **mlr3book** - [https://mlr3book.mlr-org.com/](https://mlr3book.mlr-org.com/)
 5. **Pandas for Everyone** - [https://wesmckinney.com/book/](https://wesmckinney.com/book/)
-6. **Goalkicker - Programming Notes for Professionals** - [https://goalkicker.com/](https://goalkicker.com/)
 
 ---
 
