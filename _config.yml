@@ -75,5 +75,5 @@ plugins:
 
 
 Navigation:
-- title: test
- url: test.com
+  - title: test
+    url: test.com
