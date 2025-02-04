@@ -1,10 +1,10 @@
 # Configurations
 title:            Learn Data Pilipinas
-longtitle:        Jekyll Gitbook
-author:           HE Tao
-email:            sighingnow@gmail.com
+longtitle:        Learn Data Pilipinas
+author:           Data Engineering Pilipinas
+email:            dataengineeringpilipinas@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  **Learn Data Pilipinas** is an online reference hub for learning data and related skills. We promote open access by providing free, high-quality resources, structured learning paths, and practical tutorials designed to simplify complex topics. Our content incorporates culturally relevant examples to empower Filipino learners and aspiring data professionals.
 
 version:          1.0
 gitbook_version:  3.2.3
