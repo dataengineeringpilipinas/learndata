@@ -74,6 +74,10 @@ plugins:
   - jemoji
 
 
-links:
-  - label: "Email"
-    url: "fas fa-fw fa-envelope-square"
+external_links:
+  - label: "GitHub"
+    url: "https://github.com"
+  - label: "LinkedIn"
+    url: "https://linkedin.com"
+  - label: "Twitter"
+    url: "https://twitter.com"

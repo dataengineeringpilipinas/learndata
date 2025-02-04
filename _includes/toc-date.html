@@ -114,18 +114,23 @@
                     {% endif %}
                 {% endfor %}
             {% endif %}
+
+<!-- <p>{{ external_links }}</p> -->
+            <li class="divider"></li>
+            {% for link in site.external_links %}
+            <li class="chapter" data-level="external" data-path="{{ link.url }}">
+                <a href="{{ link.url }}" target="_blank" rel="noopener">
+                    {{ link.label | escape }}
+                </a>
+            </li>
+            {% endfor %}
+            
+
+
+
         </ul>
 
 
-        <!-- <p>{{ navigation }}</p> -->
-        {% if links %}
-        {% for link in links %}
-          {% if link.label and link.url %}
-            <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer me"{% if link.url contains 'http' %} itemprop="sameAs"{% endif %}><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i><span class="label">{{ link.label }}</span></a></li>
-          {% endif %}
-        {% endfor %}
-      {% endif %}
-
-        <li class="divider"></li>
+     
     </nav>
 </div>
