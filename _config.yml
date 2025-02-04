@@ -72,7 +72,7 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
-
+  - jekyll-target-blank
 
 external_links:
   - label: "The Puso Project"
