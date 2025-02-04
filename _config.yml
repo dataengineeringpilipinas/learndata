@@ -72,3 +72,8 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+
+Navigation:
+- title: test
+ url: test.com
