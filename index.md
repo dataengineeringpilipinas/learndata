@@ -2,6 +2,7 @@
 layout: home
 title: 
 permalink: /
+cover: /assets/gitbook/images/banner.jpg
 ---
 
 Welcome to **Learn Data Pilipinas**, a site dedicated to helping you build data and tech skills through free, accessible resources.  

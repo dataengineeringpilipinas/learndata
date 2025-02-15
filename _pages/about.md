@@ -6,6 +6,7 @@ category: Admin
 layout: post
 ---
 
+
 **Learn Data Pilipinas** is an **online book reference** dedicated to learning data and data-related skills, founded on the principles of **open access and inclusivity**. Our goal is to provide free, high-quality resources accessible to everyone, regardless of background or location.  
 
 To achieve this, we focus on the following initiatives:  
@@ -16,3 +17,8 @@ To achieve this, we focus on the following initiatives:
 - **Incorporating culturally relevant content** with examples and themes that resonate with Filipino learners.  
 
 Through these efforts, **Learn Data Pilipinas** aims to be a **comprehensive learning hub** for aspiring data professionals, empowering them with the knowledge and skills needed to thrive in the data-driven world.  
+
+![Data Engineering Pilipinas](/assets/gitbook/images/about.jpg)
+Learn Data Pilipinas is a spin-off project from Data Engineering Pilipinas.
+
+ATTRIBUTION: Featured images are AI generated content provided by [Filipino & Global AI Art Community](https://www.facebook.com/groups/394976393302717).
