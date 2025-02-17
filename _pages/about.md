@@ -4,6 +4,7 @@ author: Data Engineering Pilipinas
 date: 2025-02-04
 category: Admin
 layout: post
+cover: /assets/gitbook/images/about_cover.jpg
 ---
 
 
