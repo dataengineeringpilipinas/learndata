@@ -4,7 +4,7 @@ author: Data Engineering Pilipinas
 date: 2025-02-03
 category: Admin
 layout: post
-cover: /assets/gitbook/images/openbook_cover.jpg
+cover: /assets/gitbook/images/openbook_cover1.jpg
 ---
 
 ### **1. Foundational Programming Skills (Python and R)**  
